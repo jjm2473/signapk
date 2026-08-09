@@ -1,0 +1,4 @@
+[submodule "keys"]
+	path = keys
+	url = https://github.com/jjm2473/aosp-keys.git
+	branch = main
